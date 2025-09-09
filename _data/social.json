@@ -1,0 +1,12 @@
+[
+  {
+      "name": "Email",
+      "link": "mailto:brooke@fruitfullifecounseling.com",
+      "image": "images/social/email.svg"
+  },
+  {
+      "name": "Instagram",
+      "link": "https://www.instagram.com/brookejohnsonlpc/",
+      "image": "images/social/instagram.svg"
+  }
+]
